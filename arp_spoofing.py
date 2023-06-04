@@ -2,7 +2,7 @@ import scapy.all as scapy
 import time
 
 INTERFACE = "ens33"
-TARGET_IP = "192.168.1.23"
+TARGET_IP = "192.168.1.67"
 TARGET_MAC = "00:0c:29:31:8d:ab"
 GATEWAY_IP = "192.168.1.254"
 GATEWAY_MAC = "10:50:72:21:69:28"
